@@ -1,0 +1,30 @@
+h1{
+   margin:10px;
+   font-size: 70;
+   font-style: italic;
+   font-weight: bolder;
+   font-family: Times New Roman,Arial;
+}
+p{
+	color:red;
+}
+
+img,a{
+	border:black dotted 1px;
+}
+
+
+
+.header{
+	color:#9358DD;
+	display:flex;
+}
+.menu{
+display:flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+}
+.menuitem{
+ margin:10px;
+ padding: 20px;
+}
